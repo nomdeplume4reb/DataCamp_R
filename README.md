@@ -1,3 +1,2 @@
-# learndatasci
-modified from the DataCamp project Functions for Food Price Forecasts 
-for select food items in Rwanda
+# R Projects
+These are projects I've worked on and modified from DataCamp for R
